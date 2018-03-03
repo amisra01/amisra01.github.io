@@ -154,8 +154,8 @@ right: 5px;
 }
 .de{
 	position: absolute;
-	left: 134px;
-	top: 168px;
+	left: 412px;
+	top: 164px;
 	width: 242px;
 	height: 520px;
 	overflow: visible;
@@ -170,7 +170,7 @@ right: 5px;
 }
 .drr{
 	position: absolute;
-	left: 131px;
+	left: 411px;
 	top: 815px;
 	width: 242px;
 	height: 44px;
@@ -198,6 +198,14 @@ right: 5px;
 	top: 357px;
 	width: 202px;
 	height: 237px;
+	overflow: visible;
+}
+.ddduiui{
+	position: absolute;
+	left: 411px;
+	top: 674px;
+	width: 202px;
+	height: 48px;
 	overflow: visible;
 }
 .dmy{
